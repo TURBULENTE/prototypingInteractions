@@ -12,10 +12,12 @@ for the Master in Design for Emergent Futures (MDEF) 2024, at IAAC and Fab Lab B
 
 #Day 02
 - Composing Interactions
-- Movement data 
+- Soft sensors for the body
+- Movement data
 - OS mobile devices: https://1-10.github.io/zigsim/getting-started.html
-- Android mobile devices: 
- - 1st- Download https://f-droid.org/
- - 2nd- Download Sensors2OSC app
+- Android mobile devices:
+  - 1st- Download https://f-droid.org/
+  - 2nd- Download Sensors2OSC app
+ 
 
  
