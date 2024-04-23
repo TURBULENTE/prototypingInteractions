@@ -9,11 +9,10 @@ Affective Computing and Emotion Recognition
 
 
 #Day 02
-Movement data 
-OS mobile devices: 
-https://1-10.github.io/zigsim/getting-started.html
-Android mobile devices: 
-1st- Download https://f-droid.org/
-2nd- Download Sensors2OSC app
+- Movement data 
+- OS mobile devices: https://1-10.github.io/zigsim/getting-started.html
+- Android mobile devices: 
+- 1st- Download https://f-droid.org/
+- 2nd- Download Sensors2OSC app
 
  
