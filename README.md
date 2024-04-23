@@ -6,9 +6,8 @@ for the Master in Design for Emergent Futures (MDEF) 2024, at IAAC and Fab Lab B
 - The body as a medium for expression and as topic
 - Body Data, Small Data, Big Data
 - Affective Computing and Emotion Recognition
-- Machine learning with Wekinator
 - Face feature extraction with FaceOSC
-
+- Machine learning with Wekinator
 
 #Day 02
 - Composing Interactions
